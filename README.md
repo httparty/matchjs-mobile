@@ -11,7 +11,7 @@ Technical Overview
 - RxJS
 - Immutable.js
 - AMP HTML
-- LESS
+- Flexbox + LESS
 - Webpack
 
 Authors
