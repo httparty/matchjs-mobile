@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/httparty/matchjs-mobile#readme",
   "dependencies": {
-    "koa": "^1.2.0"
+    "koa": "^1.2.0",
+    "koa-router": "^5.4.0"
   }
 }
