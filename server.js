@@ -1,4 +1,4 @@
-const koa = require("koa");
+import koa from 'koa';
 var app = koa();
 
 let port = process.env.PORT || 3000;
