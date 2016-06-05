@@ -6,27 +6,42 @@ Mobile web client for MatchJS.
 Stack
 ===========
 
-- React
-- GraphQL and Relay
-- RxJS
-- Immutable.js
-- AMP HTML
-- Flexbox + LESS
-- Webpack
-- Koa
-- Node.js/IO.js
-- MongoDB with Mongoose
-- Babel
+- Front-end
+  - react
+  - react-router
+  - relay
+  - flexbox
+  - less
+
+- Server
+  - graphql
+  - koa
+
+- Build
+ - babel
+ - webpack
+ - eslint
+
+- Tests
+ - karma, phantomjs, chrome
+ - mocha, sinon, chai
+
+- TBD
+ - RxJS
+ - AMP HTML
+ - MongoDB with Mongoose
+ - Immutable.js
 
 Starting
 ===========
 
-- `node --harmony index.js`
+- `npm start`
 
 Resources
 ===========
 
 - http://slides.com/tejasmanohar/koa-es6#/
+- Isomorphic React + Relay rendering
 
 Authors
 =======
