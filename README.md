@@ -23,6 +23,11 @@ Starting
 
 - `node --harmony index.js`
 
+Resources
+===========
+
+- http://slides.com/tejasmanohar/koa-es6#/
+
 Authors
 =======
 
